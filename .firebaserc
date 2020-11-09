@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularapp-e4354": {
+      "hosting": {
+        "angFire": [
+          "angularapp-e4354"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularapp-e4354"
+  }
+}
